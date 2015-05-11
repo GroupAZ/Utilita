@@ -5,7 +5,7 @@ import java.util.Random;
 import MyClass.MyIO.MyIOconsole;
 
 /**
- * contiene metodi di varia utilit‡
+ * contiene metodi di varia utilit√†
  * 
  * @author Tiziano Fapanni & Andrea Simaz
  *
@@ -27,4 +27,11 @@ public class MyVarie {
 		
 		return num;
 	}
+	
+	/**
+	 * nuovo metodo di prova
+	 * */
+	 public static void metodoProva(){
+	 	
+	 }
 }
